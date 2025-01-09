@@ -3,3 +3,5 @@
 ###### This is a `<h6>` header, which is the smallest
 
 Different heading types
+
+![Image of Umbrellatocat](https://octodex.github.com/images/puddle_jumper_octodex.jpg) 
